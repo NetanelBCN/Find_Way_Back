@@ -30,7 +30,8 @@ Toast.makeText(this, "You Failed ", Toast.LENGTH_LONG).show();
 
 ## 4. Added internet permission to manifest:
 
-<uses-permission android:name="android.permission.INTERNET" />
+###<uses-permission android:name="android.permission.INTERNET" />
+
 
 
 # Game Description
