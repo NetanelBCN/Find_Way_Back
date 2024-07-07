@@ -79,12 +79,13 @@ The results determine the arrow presses:
 
 ## Watch Me!
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
 
 
-## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+https://github.com/NetanelBCN/Find_Way_Back/assets/134021385/df6cb328-8d85-4c21-ae86-ec427136441d
+
+
+
+
+
 
