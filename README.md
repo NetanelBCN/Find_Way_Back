@@ -72,9 +72,6 @@ The results determine the arrow presses:
 
 
 
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
 ## Watch Me!
